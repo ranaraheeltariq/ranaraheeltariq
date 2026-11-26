@@ -2,10 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,50:12446A,100:0891B2&height=220&section=header&text=Rana%20Raheel%20Tariq&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=Founder%20%7C%20Solution%20Architect%20%7C%20AI%20Engineer&descAlignY=59&descSize=16" alt="Rana Raheel Tariq — Founder, Solution Architect and AI Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Building+AI-powered+business+solutions;Designing+secure+and+scalable+systems;Turning+complex+workflows+into+software" alt="Building AI-powered business solutions"/>
+<p><strong>Building AI-powered business solutions · Designing secure and scalable systems</strong></p>
 
-[![Digital Inspiron](https://img.shields.io/badge/Digital_Inspiron-Company-087EA4?style=for-the-badge)](https://digitalinspiron.com)
-[![Repositories](https://img.shields.io/badge/GitHub-Repositories-24292F?style=for-the-badge&logo=github)](https://github.com/ranaraheeltariq?tab=repositories)
+**[Digital Inspiron](https://digitalinspiron.com)**
+ · **[Rabtio](https://rabtio.com)** · **[Repositories](https://github.com/ranaraheeltariq?tab=repositories)**
 
 </div>
 
@@ -18,7 +18,7 @@ I'm a software engineer, solution architect and entrepreneur working at the inte
 | Venture | Focus |
 | :--- | :--- |
 | **[Digital Inspiron Ltd](https://digitalinspiron.com)** | UK-registered technology company focused on custom software, AI automation, integrations and technical consulting. |
-| **Rabtio** | Building an AI workforce platform for customer communication, knowledge assistance and business workflow automation. |
+| **[Rabtio](https://rabtio.com)** | Building an AI workforce platform for customer communication, knowledge assistance and business workflow automation. |
 
 ## How I can help
 
@@ -36,7 +36,7 @@ I'm a software engineer, solution architect and entrepreneur working at the inte
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-333333?style=flat-square)
+`Ollama`
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 
 **Application development**
